@@ -32,6 +32,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/ffa-logo-reverse-128x128.png",
+    "noImageResize": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 2,
     "versionPublish": "4.8.6"
   },
